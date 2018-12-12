@@ -1,3 +1,4 @@
+这是从github上fork的项目，此项目是一个使用docker跑c++项目的docker项目。
 # Lifecycle Snapshots
 
 This repo is a template for using docker to build software in containers.  It builds [a fancy hello world implementation](https://github.com/MatrixManAtYrService/hello-cpp-linwin).  The build proceeds in four lifecycle snapshots:
